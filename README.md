@@ -1,2 +1,2 @@
-# ML-Tasks
-Physics based ML Applications
+# Encryptix
+Encryptix Tasks
